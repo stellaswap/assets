@@ -26,28 +26,10 @@
             "decimals": 10
         },
         {
-            "name": "Frax",
-            "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
-            "symbol": "FRAX",
-            "decimals": 18
-        },
-        {
-            "name": "MAI",
-            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
-            "symbol": "MAI",
-            "decimals": 18
-        },
-        {
             "name": "Interlay",
             "address": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
             "symbol": "INTR",
             "decimals": 10
-        },
-        {
-            "name": "Acala Dollar",
-            "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
-            "symbol": "aSEED",
-            "decimals": 12
         },
         {
             "name": "Acala",
@@ -62,27 +44,21 @@
             "decimals": 8
         },
         {
-            "name": "Athos Finance",
-            "address": "0xCBABEe0658725b5B21e1512244734A5D5C6B51D6",
-            "symbol": "ATH",
-            "decimals": 18
-        },
-        {
             "name": "USD Coin | Wormhole",
             "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
-            "symbol": "USDC",
+            "symbol": "USDC.wh",
             "decimals": 6
         },
         {
             "name": "Ethereum | Wormhole",
             "address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
-            "symbol": "ETH",
+            "symbol": "ETH.wh",
             "decimals": 18
         },
         {
             "name": "Wrapped BTC | Wormhole",
             "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
-            "symbol": "WBTC",
+            "symbol": "WBTC.wh",
             "decimals": 8
         },
         {
@@ -94,14 +70,14 @@
         {
             "name": "Axelar USD Coin",
             "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
-            "symbol": "axlUSDC",
+            "symbol": "USDC.axl",
             "decimals": 6
         },
         {
-            "name": "Athos USD",
-            "address": "0x9D5d41D8C03e38194A577347206F8829B9cF7C9a",
-            "symbol": "athUSD",
-            "decimals": 18
+            "name": "Native USD Coin",
+            "address": "0xFFfffffF7D2B0B761Af01Ca8e25242976ac0aD7D",
+            "symbol": "USDC.xc",
+            "decimals": 6
         },
         {
             "name": "Phala Token",
@@ -116,51 +92,9 @@
             "decimals": 18
         },
         {
-            "name": "ZooDAO",
-            "address": "0x7cd3e6e1A69409deF0D78D17a492e8e143F40eC5",
-            "symbol": "ZOO",
-            "decimals": 18
-        },
-        {
-            "name": "TFA",
-            "address": "0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493",
-            "symbol": "TFA",
-            "decimals": 18
-        },
-        {
-            "name": "Dam Finance",
-            "address": "0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF",
-            "symbol": "d2O",
-            "decimals": 18
-        },
-        {
             "name": "Centrifuge",
             "address": "0xFFfFfFff44bD9D2FFEE20B25D1Cf9E78Edb6Eae3",
             "symbol": "CFG",
-            "decimals": 18
-        },
-        {
-            "name": "Axelar Wrapped MAI",
-            "address": "0xbFE3Acdca835bB60A6B51Ee6B947779A02eCE911",
-            "symbol": "axlWMAI",
-            "decimals": 18
-        },
-        {
-            "name": "Cypress Capital",
-            "address": "0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824",
-            "symbol": "CP",
-            "decimals": 18
-        },
-        {
-            "name": "OriginTrail Parachain",
-            "address": "0xFfffffFfB3229c8E7657eABEA704d5e75246e544",
-            "symbol": "OTP",
-            "decimals": 12
-        },
-        {
-            "name": "Trace",
-            "address": "0xed80FEf95392bB8c0e29cF75BE356E491d0d7661",
-            "symbol": "TRAC",
             "decimals": 18
         },
         {
@@ -170,22 +104,10 @@
             "decimals": 12
         },
         {
-            "name": "Bifrost Voucher FIL",
-            "address": "0xFffffFffCd0aD0EA6576B7b285295c85E94cf4c1",
-            "symbol": "vFIL",
-            "decimals": 18
-        },
-        {
             "name": "Stella Staked DOT",
             "address": "0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4",
             "symbol": "stDOT",
             "decimals": 10
-        },
-        {
-            "name": "Bifrost Filecoin Native Token",
-            "address": "0xfFFfFFFF6C57e17D210DF507c82807149fFd70B2",
-            "symbol": "FIL",
-            "decimals": 18
         },
         {
             "name": "Bifrost Voucher DOT",
@@ -194,22 +116,10 @@
             "decimals": 10
         },
         {
-            "name": "Zeitgeist",
-            "address": "0xFFFFfffF71815ab6142E0E20c7259126C6B40612",
-            "symbol": "ZTG",
-            "decimals": 10
-        },
-        {
             "name": "Acala Liquid DOT",
             "address": "0xFFfFfFffA9cfFfa9834235Fe53f4733F1b8B28d4",
             "symbol": "LDOT",
             "decimals": 10
-        },
-        {
-            "name": "SOL | Wormhole",
-            "address": "0x99Fec54a5Ad36D50A4Bba3a41CAB983a5BB86A7d",
-            "symbol": "SOL",
-            "decimals": 9
         },
         {
             "name": "Subsocial",
@@ -236,34 +146,28 @@
             "decimals": 18
         },
         {
-            "name": "Native USD Coin",
-            "address": "0xFFfffffF7D2B0B761Af01Ca8e25242976ac0aD7D",
-            "symbol": "USDC",
-            "decimals": 6
+            "name": "BRLA",
+            "address": "0xfeB25F3fDDad13F82C4d6dbc1481516F62236429",
+            "symbol": "BRLA",
+            "decimals": 18
         },
         {
-            "name": "DOT is PINK",
-            "address": "0xfFfFFfFf30478fAFBE935e466da114E14fB3563d",
-            "symbol": "PINK",
-            "decimals": 10
-        },
-        {
-            "name": "BNCS-20",
-            "address": "0xfFfffffF6aF229AE7f0F4e0188157e189a487D59",
-            "symbol": "BNCS",
+            "name": "NeuroWeb",
+            "address": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
+            "symbol": "NEURO",
             "decimals": 12
         },
         {
-            "name": "DED",
-            "address": "0xfFffFFFf5da2d7214D268375cf8fb1715705FdC6",
-            "symbol": "DED",
-            "decimals": 10
+            "name": "Moonwell",
+            "address": "0x511aB53F793683763E5a8829738301368a2411E3",
+            "symbol": "WELL",
+            "decimals": 18
         },
         {
-            "name": "STINK",
-            "address": "0xFffFffFf54c556bD1d0F64ec6c78f1B477525E56",
-            "symbol": "STINK",
-            "decimals": 10
+            "name": "Apillon",
+            "address": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
+            "symbol": "NCTR",
+            "decimals": 18
         }
     ]
 }
