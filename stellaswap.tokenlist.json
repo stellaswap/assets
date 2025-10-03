@@ -168,6 +168,60 @@
             "address": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
             "symbol": "NCTR",
             "decimals": 18
+        },
+        {
+            "name": "BRLA",
+            "address": "0xfeB25F3fDDad13F82C4d6dbc1481516F62236429",
+            "symbol": "BRLA",
+            "decimals": 18
+        },
+        {
+            "name": "Bifrost Voucher GLMR",
+            "address": "0xFfFfFFff99dABE1a8De0EA22bAa6FD48fdE96F6c",
+            "symbol": "vGLMR",
+            "decimals": 18
+        },
+        {
+            "name": "Wrapped BTC | Snowbridge",
+            "address": "0xfFffFFFf1B4Bb1ac5749F73D866FfC91a3432c47",
+            "symbol": "wBTC",
+            "decimals": 8
+        },
+        {
+            "name": "Wrapped ETH | Snowbridge",
+            "address": "0xFFffFFfF86829AFE1521ad2296719Df3acE8DEd7",
+            "symbol": "wETH",
+            "decimals": 18
+        },
+        {
+            "name": "LAOS",
+            "address": "0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588",
+            "symbol": "LAOS",
+            "decimals": 18
+        },
+        {
+            "name": "DIODE",
+            "address": "0x434116a99619f2B465A137199C38c1Aab0353913",
+            "symbol": "DIODE",
+            "decimals": 18
+        },
+        {
+            "name": "Ethereum | Snowbridge",
+            "address": "0xFFFfFFffaFF6dF83d0A1935dDA2e5F1F402C0c45",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        {
+            "name": "StellaSwap stGLMR",
+            "address": "0x7d7164cFAc019872a3890b686306a3B8c5c5Ba73",
+            "symbol": "stGLMR",
+            "decimals": 18
+        },
+        {
+            "name": "MST",
+            "address": "0xf6Ad62cCa52a5d3c5d567303347E013c2dadec92",
+            "symbol": "MST",
+            "decimals": 18
         }
     ]
 }
