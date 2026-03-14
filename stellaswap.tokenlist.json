@@ -222,6 +222,14 @@
             "address": "0xf6Ad62cCa52a5d3c5d567303347E013c2dadec92",
             "symbol": "MST",
             "decimals": 18
+        },
+        {
+          "chainId": 1284,
+          "address": "0xb46050d3677d878E9153a10E0B76E664aD47402F",
+          "name": "eCNY",
+          "symbol": "eCNY",
+          "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/dinhhx01248-oss/assets/main/tokenlist/eCNY.png"
         }
     ]
 }

@@ -1,0 +1,32 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C0392B"/>
+      <stop offset="100%" stop-color="#922B21"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Nền tròn đỏ -->
+  <circle cx="100" cy="100" r="100" fill="url(#bg-grad)"/>
+  <!-- Viền vàng ngoài -->
+  <circle cx="100" cy="100" r="93" fill="none" stroke="#F4D03F" stroke-width="3" opacity="0.9"/>
+  <!-- Viền vàng trong -->
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#F4D03F" stroke-width="1" opacity="0.5"/>
+  <!-- Shine -->
+  <circle cx="100" cy="100" r="100" fill="url(#shine)"/>
+  <!-- Chữ ¥ -->
+  <text x="100" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="88" font-weight="700" fill="#F4D03F">¥</text>
+  <!-- Chữ eCNY -->
+  <text x="100" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#F4D03F" letter-spacing="3">eCNY</text>
+  <!-- Gạch trang trí -->
+  <line x1="40" y1="168" x2="72" y2="168" stroke="#F4D03F" stroke-width="1.5" opacity="0.6"/>
+  <line x1="128" y1="168" x2="160" y2="168" stroke="#F4D03F" stroke-width="1.5" opacity="0.6"/>
+  <!-- 4 ngôi sao -->
+  <polygon points="26,36 28.5,43 36,43 30,47.5 32.5,54.5 26,50 19.5,54.5 22,47.5 16,43 23.5,43" fill="#F4D03F" opacity="0.85"/>
+  <polygon points="174,36 176.5,43 184,43 178,47.5 180.5,54.5 174,50 167.5,54.5 170,47.5 164,43 171.5,43" fill="#F4D03F" opacity="0.85"/>
+  <polygon points="26,146 28.5,153 36,153 30,157.5 32.5,164.5 26,160 19.5,164.5 22,157.5 16,153 23.5,153" fill="#F4D03F" opacity="0.85"/>
+  <polygon points="174,146 176.5,153 184,153 178,157.5 180.5,164.5 174,160 167.5,164.5 170,157.5 164,153 171.5,153" fill="#F4D03F" opacity="0.85"/>
+</svg>
